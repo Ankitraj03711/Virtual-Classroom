@@ -1,0 +1,6 @@
+#App {
+    background: var(--gc-bg, #f6f8fc);
+    min-height: 100vh;
+}
+
+/* Remove the animated gradient, use clean Google Classroom bg */
