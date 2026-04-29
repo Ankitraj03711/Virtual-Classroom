@@ -295,7 +295,7 @@ This project is licensed under the ISC License.
 
 ## 👤 Author
 
-**Prince Kumar** — [GitHub](https://github.com/princekumar0018)
+** Ankit Raj ** — [GitHub](https://github.com/Ankitraj03711)
 
 ---
 
